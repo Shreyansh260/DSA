@@ -1,4 +1,4 @@
-# 🧠 OOP Basics: Python & Java
+# 🧠 Classes Basics: Python & Java
 
 ---
 
